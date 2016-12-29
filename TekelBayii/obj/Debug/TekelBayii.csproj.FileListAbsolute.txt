@@ -1,0 +1,25 @@
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\bin\Debug\TekelBayii.exe.config
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\bin\Debug\TekelBayii.exe
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.anket.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.tklbayigiris.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.franamenu.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.iletisim.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.Properties.Resources.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.csproj.GenerateResource.Cache
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.exe
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\obj\Debug\TekelBayii.pdb
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı\TekelBayii\TekelBayii\bin\Debug\TekelBayii.pdb
+C:\Users\Mert\Desktop\Nesne Tabanlı Proje\TekelBayii\TekelBayii\bin\Debug\TekelBayii.exe.config
+C:\Users\Mert\Desktop\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.exe
+C:\Users\Mert\Desktop\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.pdb
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\bin\Debug\TekelBayii.exe.config
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.exe
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.pdb
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\bin\Debug\TekelBayii.exe
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.tklbayigiris.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.franamenu.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.Properties.Resources.resources
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\obj\Debug\TekelBayii.csproj.GenerateResource.Cache
+C:\Users\Mert\Desktop\Okan Üni\Nesne Tabanlı Proje\TekelBayii\TekelBayii\bin\Debug\TekelBayii.pdb
